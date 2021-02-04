@@ -1,31 +1,65 @@
-## ✨The best way to pay for a lovely moment is to enjoy it.
-It was a time in my life when I was forgotten to enjoy the precious moment of my life. Someone came to my life and taught me to enjoy all the moments of my life, even the worst ones and the hard ones. We don’t know in the world there are a lot of people who are struggling more than us, who are living in poverty and hunger. Maybe we are far from our loved ones but there are people who lost their loved ones forever. 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<!-- 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
+
+<br />
+
+Hi, I'm [Tahmina Rasoli!](https://tahminarasoli.github.io/) , a junior freelance Web Developer 🚀 from Afghanistan.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+at the meantime study [with Hack your Futur Belguim](https://github.com/HackYourFutureBelgium)
+- 🌱 I’m currently learning Javascript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@thmrasoli](https://twitter.com/thmrasoli);
+- 📝[Resume]()
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 
 
-Since I was a child I had the sense of humanity and sympathy to those who are living in hunger, back then I had no idea of life circumstance, what I knew was one day I will be able to help the people who don’t have enough to eat. Specially children.
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JS        13 hrs 28 mins  █████████████████████▓░░░   86.39 % 
+HTML       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Gmail     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+<!--END_SECTION:waka-->
 
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-Therefore, I decide to do something to produce healthy, cheap food (even free for those who cannot buy). With the idea of ( **Mobile Restaurant**) which can make job opportunities, culture exchange, providing free food once per week or month (based on income) for refugees and the people who are living in bad conditions on the streets or dont have access to healthy food around the world.
-
-
-_Poverty_ is something that I have been through in my childhood, I have well understanding of the feeling when your father disappointedly says **“I am not able to find food for my children they have to find by themselves”**. I was seven years old when I start making rugs and carpets instead of going to school, playing in park and hanging out with friends. Although, it was a hard time for me as well as for my family but I was enjoying being to gather with my siblings and my parents. Still I remember when we were making fun of something and start laughing and couldn’t stop 😄. I remember the winters nights when my father was reading stories of ✨ **Shahnama** ✨ and poems of ✨ **Bedel Dehlawi** ✨. Now I am thankful of the lessons I learned at that time, and having the beautiful memories with my loved ones.
-
-
-**About myself:** my name is Tahmina I am a refugee from ✨ _Afghanistan_ ✨, currently I am living in a refugee center. I am learning web development with [Hack Your Future Belgium](https://hackyourfuture.be/). I am very glad for having this opportunity to study and follow my dreams in this county. And I am really grateful of [HYF](https://hackyourfuture.be/) program for providing this opportunity. I have a big hope to make my dreams come true and this is the fastest steps toward my dreams and goals.
-
-
-
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <!--
-**tahminarasoli/tahminarasoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **My Todoist Stats:**
+ TODO-IST:START -->
+<!--🏆  7,111 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 543 tasks so far           
+⏳  Longest streak is 10 days
+ TODO-IST:END -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tahminarasoli&show_icons=true&theme=gotham" alt="tahminarasoili" />
+
+
+
+

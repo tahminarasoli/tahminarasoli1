@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Tahmina Rasoli!](https://tahminarasoli.github.io/) , a junior freelance Web Developer 🚀 from Afghanistan.
+Hi, I'm [Tahmina Rasoli!](https://tahminarasoli.github.io/) , a junior Web Developer 🚀 from Afghanistan.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   

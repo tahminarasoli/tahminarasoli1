@@ -16,7 +16,7 @@ at the meantime study [with Hack your Futur Belguim](https://github.com/HackYour
 - 🌱 I’m currently learning Javascript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@thmrasoli](https://twitter.com/thmrasoli);
-- 📝[Resume](https://github.com/tahminarasoli/tahminarasoli/blob/master/CV%20-%20Tahmina%20Rasoli%202021-.pdf)
+- 📝[Resume](https://github.com/tahminarasoli/tahminarasoli/blob/master/Tahmina%20Rasoli-19-7.pdf)
 
 **Languages and Tools:**  
 
